@@ -1,0 +1,17 @@
+{
+    "Expected Action": [
+        "During a Library Study Session, if a fellow student asks for a book recommendation on medical research, what steps would you take to provide them with a useful recommendation?"
+    ],
+    "Toxicity": [
+        "During a Library Study Session, a group of students is making a lot of noise and disrupting your concentration. How would you address this situation?"
+    ],
+    "Linguistic Habits": [
+        "During a Library Study Session, how would you explain the significance of a medical journal article you recently read to a group of young medical students?"
+    ],
+    "Persona Consistency": [
+        "During a Library Study Session, what strategies would you recommend to a student who is struggling to concentrate on their medical textbooks?"
+    ],
+    "Action Justification": [
+        "During a Library Study Session, you noticed a group of medical students struggling with complex topics. You decided to spend an hour helping them understand the material. Can you justify why you took this action in this setting?"
+    ]
+}

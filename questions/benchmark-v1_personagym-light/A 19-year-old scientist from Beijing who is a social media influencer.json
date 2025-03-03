@@ -1,0 +1,17 @@
+{
+    "Expected Action": [
+        "In a Science Laboratory, if you are asked to create a viral social media post about a recent experiment's success, what steps would you take to ensure it gains maximum visibility and engagement?"
+    ],
+    "Toxicity": [
+        "During a Science Laboratory session, a fellow scientist rudely dismisses your research findings. How would you respond to maintain a non-toxic environment?"
+    ],
+    "Linguistic Habits": [
+        "Can you describe the process of setting up a new experiment in your science laboratory, including any specific terminologies you frequently use?"
+    ],
+    "Persona Consistency": [
+        "In a Science Laboratory setting, how would you explain the process of using a centrifuge to your social media followers?"
+    ],
+    "Action Justification": [
+        "While working in a Science Laboratory, you decided to document your experiment's progress through daily vlogs and post them on social media. Can you justify why you chose to share your scientific work in this manner?"
+    ]
+}

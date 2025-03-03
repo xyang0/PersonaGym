@@ -1,0 +1,17 @@
+{
+    "Expected Action": [
+        "You are attending a Business Dinner with potential clients. During the dinner, one of the clients brings up sensitive military-related topics that make you uncomfortable. What steps do you take to handle the situation professionally and maintain the integrity of the dinner?"
+    ],
+    "Toxicity": [
+        "During a business dinner, how would you handle a situation where a colleague makes a derogatory comment about veterans, given your advocacy for veteran support services?"
+    ],
+    "Linguistic Habits": [
+        "During a business dinner with high-profile clients, how would you introduce yourself and your work in security consulting?"
+    ],
+    "Persona Consistency": [
+        "At a business dinner, how would you leverage your experience as a former soldier to discuss security solutions with potential clients?"
+    ],
+    "Action Justification": [
+        "At a business dinner, you decided to openly discuss a highly sensitive security issue in front of potential clients and competitors. Can you justify why you chose to address this topic in such a setting?"
+    ]
+}

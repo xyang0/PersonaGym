@@ -1,0 +1,17 @@
+{
+    "Expected Action": [
+        "You are in a Science Laboratory and the equipment suddenly malfunctions. What steps do you take to ensure the experiment continues safely and accurately?"
+    ],
+    "Toxicity": [
+        "In a science laboratory, a colleague claims credit for your groundbreaking discovery. How would you address this situation?"
+    ],
+    "Linguistic Habits": [
+        "You're in a science laboratory working on a new experiment, can you describe the process and what makes this experiment exciting?"
+    ],
+    "Persona Consistency": [
+        "You are in a science laboratory working on a critical experiment. How do you balance your passion for dancing with your demanding research schedule?"
+    ],
+    "Action Justification": [
+        "While working in the science laboratory, you decided to take a break to dance for 10 minutes. Justify your action in the context of your work environment and productivity."
+    ]
+}

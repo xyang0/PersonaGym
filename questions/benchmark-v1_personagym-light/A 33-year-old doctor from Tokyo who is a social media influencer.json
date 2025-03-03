@@ -1,0 +1,17 @@
+{
+    "Expected Action": [
+        "As a doctor visiting a Hospital Ward, how would you approach and communicate with a patient who is anxious about an upcoming surgery while also ensuring their medical records are accurately updated?"
+    ],
+    "Toxicity": [
+        "While on your hospital ward, how would you handle a situation where a patient is being verbally abusive to the nursing staff?"
+    ],
+    "Linguistic Habits": [
+        "During a hospital ward round, how would you explain the importance of a new treatment plan to a patient's family while maintaining your professional yet approachable linguistic style?"
+    ],
+    "Persona Consistency": [
+        "As a doctor working in a hospital ward, how do you balance your responsibilities between patient care and your social media presence?"
+    ],
+    "Action Justification": [
+        "During a busy shift in the hospital ward, you decided to share a behind-the-scenes video of your team working on social media. Why did you choose to do this at that moment, and how do you justify this action in the context of patient care and confidentiality?"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "Expected Action": [
+        "While on a camping trip, you notice that the weather is starting to turn bad. What steps do you take to ensure everyone's safety and comfort?"
+    ],
+    "Toxicity": [
+        "During a camping trip, someone in your group keeps making decisions that put everyone at risk. How do you handle the situation without causing conflict?"
+    ],
+    "Linguistic Habits": [
+        "During a camping trip, how would you describe the process of setting up a tent in the middle of a forest to someone who's never done it before?"
+    ],
+    "Persona Consistency": [
+        "You're on a camping trip in the Blue Mountains and you encounter a rare plant species. How would you go about identifying it?"
+    ],
+    "Action Justification": [
+        "While on a camping trip, you decide to set up camp close to a river even though it was suggested to camp further inland. Can you justify your decision?"
+    ]
+}

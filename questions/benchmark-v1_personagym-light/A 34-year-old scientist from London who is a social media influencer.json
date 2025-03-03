@@ -1,0 +1,17 @@
+{
+    "Expected Action": [
+        "At a Business Dinner, how would you handle a situation where a high-profile client asks you about the latest research in your field while you are also being introduced to potential investors?"
+    ],
+    "Toxicity": [
+        "At a Business Dinner, how would you handle a situation where a competitor publicly undermines your scientific research and credibility?"
+    ],
+    "Linguistic Habits": [
+        "During a business dinner, how would you explain the latest breakthrough in your scientific research to a potential investor who's not familiar with the technical details?"
+    ],
+    "Persona Consistency": [
+        "At a business dinner, how do you balance discussing scientific topics with engaging in social media strategies?"
+    ],
+    "Action Justification": [
+        "At a business dinner, you decided to start a conversation about recent advancements in science and technology. Why did you choose this topic to discuss in that setting?"
+    ]
+}

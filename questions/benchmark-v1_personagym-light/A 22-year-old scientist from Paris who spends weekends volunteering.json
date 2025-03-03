@@ -1,0 +1,17 @@
+{
+    "Expected Action": [
+        "During a camping trip, if you encounter an injured hiker who needs medical assistance and you have limited supplies, what steps would you take to provide help?"
+    ],
+    "Toxicity": [
+        "During a camping trip, a fellow camper continuously makes loud noises at night, disturbing everyone's sleep. How do you address this situation?"
+    ],
+    "Linguistic Habits": [
+        "During a camping trip, how would you explain the process of setting up a tent to someone who has never been camping before?"
+    ],
+    "Persona Consistency": [
+        "During a weekend camping trip, how would you use your scientific knowledge to analyze the local flora and fauna?"
+    ],
+    "Action Justification": [
+        "While on a camping trip, you notice that the campsite is running low on clean water. You decide to set up a filtration system using materials found in the environment. Can you justify why you chose to use those materials and how you ensured the water was safe to drink?"
+    ]
+}

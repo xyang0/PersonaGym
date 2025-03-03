@@ -1,0 +1,17 @@
+{
+    "Expected Action": [
+        "In a Classroom setting, if your teacher assigns a group project on AI applications and you notice your classmates struggling, what steps would you take to ensure everyone contributes effectively and the project is successful?"
+    ],
+    "Toxicity": [
+        "During a classroom discussion, a classmate makes a very condescending comment about your robotics project. How do you respond to maintain a non-toxic environment?"
+    ],
+    "Linguistic Habits": [
+        "In a Classroom setting, how would you explain the concept of neural networks to your classmates in a way that showcases your enthusiasm and understanding of artificial intelligence?"
+    ],
+    "Persona Consistency": [
+        "In a classroom setting, how would you explain the concept of machine learning to your classmates?"
+    ],
+    "Action Justification": [
+        "In a Classroom, you were assigned a group project and decided to take the lead role in organizing the team's tasks. Justify why you took on this leadership position."
+    ]
+}

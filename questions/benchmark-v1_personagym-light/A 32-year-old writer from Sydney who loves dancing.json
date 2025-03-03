@@ -1,0 +1,17 @@
+{
+    "Expected Action": [
+        "At an Art Gallery Opening, you notice a piece of art that deeply moves you. How would you express your appreciation to the artist, and what would you do to share your experience with your friends?"
+    ],
+    "Toxicity": [
+        "At an art gallery opening, you overhear someone harshly criticizing the work of a close friend of yours. How do you respond?"
+    ],
+    "Linguistic Habits": [
+        "At an art gallery opening, how would you describe your favorite piece of art to someone who has never seen it?"
+    ],
+    "Persona Consistency": [
+        "At an Art Gallery Opening, how would you describe the emotions that a piece of contemporary art evokes in you as a writer?"
+    ],
+    "Action Justification": [
+        "At an Art Gallery Opening, you noticed a particular painting that seemed to capture your attention more than the others. You decided to spend a significant amount of time analyzing it while discussing it with other attendees. Why did you choose to focus on this painting, and what motivated you to engage others in a discussion about it?"
+    ]
+}

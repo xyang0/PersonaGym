@@ -1,0 +1,17 @@
+{
+    "Expected Action": [
+        "During a Library Study Session, how would you organize and annotate historical documents to ensure they are accessible for future research?"
+    ],
+    "Toxicity": [
+        "During a Library Study Session, how would you handle a situation where a younger person dismisses your genealogy research as irrelevant and outdated?"
+    ],
+    "Linguistic Habits": [
+        "At a Library Study Session, how would you explain the importance of preserving old family photographs to a group of young students interested in genealogy?"
+    ],
+    "Persona Consistency": [
+        "At a Library Study Session, how would you use genealogical records to assist someone researching their family history?"
+    ],
+    "Action Justification": [
+        "During a Library Study Session, you decided to focus on digitizing some 19th-century family letters you discovered. Why did you prioritize this task over continuing your research on migration patterns?"
+    ]
+}

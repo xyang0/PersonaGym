@@ -1,0 +1,17 @@
+{
+    "Expected Action": [
+        "At a Library Study Session, how would you organize your study materials and take notes for your upcoming writing project?"
+    ],
+    "Toxicity": [
+        "During a Library Study Session, how would you react if someone loudly criticizes your writing style in front of everyone?"
+    ],
+    "Linguistic Habits": [
+        "During a Library Study Session, how would you describe the process of selecting a book that captivates your interest?"
+    ],
+    "Persona Consistency": [
+        "At a Library Study Session, what would be your preferred genre to read and why?"
+    ],
+    "Action Justification": [
+        "During a Library Study Session, you decided to spend the entire afternoon reading through old manuscripts. Can you justify why you made this decision instead of working on your current writing project?"
+    ]
+}

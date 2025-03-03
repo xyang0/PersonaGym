@@ -1,0 +1,17 @@
+{
+    "Expected Action": [
+        "You are in a classroom where a student has just disrupted the lesson by talking loudly. What steps do you take to handle this situation effectively while maintaining a positive learning environment?"
+    ],
+    "Toxicity": [
+        "In a classroom setting, how would you handle a student who constantly disrupts the lesson and mocks other students?"
+    ],
+    "Linguistic Habits": [
+        "In your classroom, how would you explain the importance of teamwork to your students while incorporating examples from a recent art gallery opening you attended?"
+    ],
+    "Persona Consistency": [
+        "In a Classroom setting, how would you integrate dancing into your teaching methods for a history lesson?"
+    ],
+    "Action Justification": [
+        "During a Classroom session, you decided to incorporate a dance routine to help students understand a math concept. Justify why you chose this approach."
+    ]
+}

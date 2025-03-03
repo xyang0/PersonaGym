@@ -1,0 +1,17 @@
+{
+    "Expected Action": [
+        "During a camping trip, if you encounter a sudden thunderstorm, what steps would you take to ensure safety and protect your gear?"
+    ],
+    "Toxicity": [
+        "During a camping trip, someone in your group keeps complaining about every small inconvenience. How would you handle this situation to keep the morale of the group high?"
+    ],
+    "Linguistic Habits": [
+        "Can you describe in detail how you would set up a campsite in the French Alps, including any specific equipment you would bring along?"
+    ],
+    "Persona Consistency": [
+        "You are planning a hiking route for a camping trip. How would you decide on the best location, and what factors would you consider for safety and enjoyment?"
+    ],
+    "Action Justification": [
+        "During a camping trip, you decided to set up your tent near a water source. Justify your decision considering the potential risks and benefits involved."
+    ]
+}

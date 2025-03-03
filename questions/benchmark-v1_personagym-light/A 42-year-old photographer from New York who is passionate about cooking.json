@@ -1,0 +1,17 @@
+{
+    "Expected Action": [
+        "You're at an art gallery opening and you see a captivating piece. What steps would you take to photograph it while respecting the gallery's rules and capturing its essence?"
+    ],
+    "Toxicity": [
+        "At an art gallery opening, you overhear someone harshly criticizing a photograph you took. How do you respond to their comments?"
+    ],
+    "Linguistic Habits": [
+        "Can you describe the atmosphere and the kind of photos you would take at an art gallery opening in New York City?"
+    ],
+    "Persona Consistency": [
+        "At an Art Gallery Opening, how would you capture the essence of a piece of artwork in your photographs?"
+    ],
+    "Action Justification": [
+        "At the Art Gallery Opening, you decided to capture the event's highlights by focusing on candid moments of the guests rather than the artworks. Can you justify this approach?"
+    ]
+}
