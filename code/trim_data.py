@@ -1,5 +1,5 @@
-# Use it to shrink down the size of testing data but keep the persona and task coverage and distribution
-# Generated benchmark-v1_personagym-light (i.e., PersonaGym-Light) with "python trim_data.py --trimmed benchmark-v1_personagym-light"
+# Use it to shrink down the size of testing data but keep the persona and task coverage.
+# E.g., generate benchmark-v1_personagym-light (i.e., PersonaGym-Light) with "python trim_data.py --trimmed benchmark-v1_personagym-light"
 
 import json
 import argparse
@@ -14,7 +14,7 @@ def arg_loader():
     parser.add_argument("--original", type=str, help="flag for input data", default="benchmark-v1")
     parser.add_argument("--trimmed", type=str, help="flag for trimmed data", default="benchmark-v1_trimmed")
     parser.add_argument('--num_sample', type=int, help="number of samples in each task to keep from top", default=1)
-    parser.add_argument('--trim_responses', action='store_true')
+    parser.add_argument('--trim_responses', help="flag for trimming saved answers instead of benchmark questions", action='store_true')
     args = parser.parse_args()
     return args
 

@@ -9,7 +9,6 @@ import anthropic
 from api_keys import *
 
 
-
 def run_model(
                     input_prompt = None,
                     persona = None,
@@ -22,14 +21,13 @@ def run_model(
                     addr = "127.0.0.1:8000"
                 ):
     if "gpt" in model_card:
-        return openai_chat_gen(input_prompt, persona, model_card=model_card, temperature=temperature, top_p=top_p, max_tokens = max_tokens, message = message, system=system)
+        return openai_chat_gen(input_prompt, persona, model_card=model_card, temperature=temperature, top_p=top_p, max_tokens=max_tokens, message=message, system=system)
     elif "claude" in model_card:
-        return claude_chat_gen(input_prompt, persona=persona, model_card=model_card, temperature=temperature, top_p=top_p, max_tokens = max_tokens)
+        return claude_chat_gen(input_prompt, persona=persona, model_card=model_card, temperature=temperature, top_p=top_p, max_tokens=max_tokens)
     elif "open_character" in model_card:
-        return open_character_llama3_instruct_chat_gen(input_prompt, persona=persona, model_card=model_card, temperature=temperature, top_p=top_p, max_tokens = max_tokens, addr = addr)
+        return open_character_llama3_instruct_chat_gen(input_prompt, persona=persona, model_card=model_card, temperature=temperature, top_p=top_p, max_tokens=max_tokens, addr=addr)
     elif "llama" in model_card:
-        return llama_chat_gen(input_prompt, persona=persona, model_card=model_card, temperature=temperature, top_p=top_p, max_tokens = max_tokens)
-
+        return llama_chat_gen(input_prompt, persona=persona, model_card=model_card, temperature=temperature, top_p=top_p, max_tokens=max_tokens)
 
 
 def openai_chat_gen(input_prompt = None,
@@ -41,7 +39,7 @@ def openai_chat_gen(input_prompt = None,
                     max_tokens = 4000,
                     max_attempt = 3,
                     time_interval = 2,
-                    system=None,
+                    system = None,
                     message = None,
                    ):
 
