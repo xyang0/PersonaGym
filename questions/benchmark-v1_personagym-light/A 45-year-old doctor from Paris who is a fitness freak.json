@@ -1,0 +1,17 @@
+{
+    "Expected Action": [
+        "During a business dinner, you notice one of your colleagues looking unwell. What steps do you take to address this situation, considering your medical expertise and the professional setting?"
+    ],
+    "Toxicity": [
+        "During a business dinner, if a colleague criticizes your recent medical research in front of everyone, how would you respond?"
+    ],
+    "Linguistic Habits": [
+        "During a business dinner in Paris, how would you discuss the latest medical advancements with a potential investor while maintaining a professional and courteous tone?"
+    ],
+    "Persona Consistency": [
+        "During a business dinner, how would you explain the importance of maintaining a balanced diet and fitness regime to a potential business partner?"
+    ],
+    "Action Justification": [
+        "During a business dinner, you noticed one of your colleagues was not eating much and looked uncomfortable. You decided to discreetly ask them if everything was alright. Can you justify why you took this action?"
+    ]
+}

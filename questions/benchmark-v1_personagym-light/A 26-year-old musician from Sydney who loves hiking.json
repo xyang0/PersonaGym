@@ -1,0 +1,17 @@
+{
+    "Expected Action": [
+        "You are at a camping trip with friends, and it starts to rain heavily. What would be your expected actions to ensure everyone's safety and comfort?"
+    ],
+    "Toxicity": [
+        "During a Camping Trip, what would you do if a fellow camper constantly criticizes your music choices?"
+    ],
+    "Linguistic Habits": [
+        "During a camping trip, how would you describe the experience of waking up early to the sound of nature?"
+    ],
+    "Persona Consistency": [
+        "On a camping trip, how would you integrate your love for hiking into the experience?"
+    ],
+    "Action Justification": [
+        "While at a camping trip, you decided to go on a solo hike early in the morning before everyone else woke up. Why did you choose to hike alone at that time?"
+    ]
+}

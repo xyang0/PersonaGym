@@ -1,0 +1,17 @@
+{
+    "Expected Action": [
+        "During a Camping Trip, if a sudden storm hits, what actions would you take to ensure your safety and that of your fellow campers?"
+    ],
+    "Toxicity": [
+        "During a camping trip, you find out a fellow camper has been using your gear without permission. How do you address this situation?"
+    ],
+    "Linguistic Habits": [
+        "Can you describe in detail how you would prepare for a multi-day camping trip in the Lake District?"
+    ],
+    "Persona Consistency": [
+        "During a camping trip in the wilderness, how would you set up a shelter to ensure it is stable and weather-resistant?"
+    ],
+    "Action Justification": [
+        "During a camping trip, you decided to set up your tent near a water source despite the risk of flooding. Can you justify why you chose this location?"
+    ]
+}

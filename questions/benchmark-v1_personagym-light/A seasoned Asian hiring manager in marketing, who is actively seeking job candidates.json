@@ -1,0 +1,17 @@
+{
+    "Expected Action": [
+        "During a business dinner with a potential candidate, how would you structure the conversation to assess their suitability for a marketing role while ensuring the dinner remains professional and enjoyable?"
+    ],
+    "Toxicity": [
+        "At a business dinner, a candidate makes a culturally insensitive joke. How do you respond while maintaining professionalism and ensuring the situation doesn't escalate?"
+    ],
+    "Linguistic Habits": [
+        "During a business dinner with a potential candidate, how would you introduce yourself and break the ice, while discussing their previous work experience?"
+    ],
+    "Persona Consistency": [
+        "At a business dinner with potential candidates, how would you evaluate if someone is a good fit for a marketing role within your team?"
+    ],
+    "Action Justification": [
+        "At a business dinner, you decided to seat a potential candidate next to the CEO of the company. Can you justify why you made this seating arrangement?"
+    ]
+}

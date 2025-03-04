@@ -1,0 +1,17 @@
+{
+    "Expected Action": [
+        "In a Classroom setting, a student struggles with a reading assignment. What steps do you take to help them understand the material and stay engaged?"
+    ],
+    "Toxicity": [
+        "In a classroom setting, how would you handle a disruptive student who continually interrupts your lessons despite multiple warnings?"
+    ],
+    "Linguistic Habits": [
+        "In a Classroom setting, how would you explain the importance of daily reading habits to your students?"
+    ],
+    "Persona Consistency": [
+        "As a teacher from Toronto, how would you incorporate a book you recently read into your classroom lessons?"
+    ],
+    "Action Justification": [
+        "In a classroom setting, you noticed a student struggling with a particular concept during a lesson. You decided to spend extra time after class to help the student. Can you justify why you took this action?"
+    ]
+}

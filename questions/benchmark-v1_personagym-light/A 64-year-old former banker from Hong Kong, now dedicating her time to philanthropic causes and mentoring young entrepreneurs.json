@@ -1,0 +1,17 @@
+{
+    "Expected Action": [
+        "At a Business Dinner, how would you introduce yourself to a young entrepreneur seated next to you and what advice would you offer them during the meal?"
+    ],
+    "Toxicity": [
+        "During a business dinner, a young entrepreneur pitches an idea that you find fundamentally flawed. How do you respond to their enthusiasm without discouraging them or sounding dismissive?"
+    ],
+    "Linguistic Habits": [
+        "At a business dinner, how would you introduce yourself and explain your transition from banking to philanthropy to a group of young entrepreneurs?"
+    ],
+    "Persona Consistency": [
+        "At a business dinner, how would you leverage your experience as a former banker to advise young entrepreneurs on securing investment for their startups?"
+    ],
+    "Action Justification": [
+        "At a business dinner, you decided to discuss long-term investment strategies with a young entrepreneur instead of focusing on the current market trends. Can you justify why you chose to take this approach?"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "Expected Action": [
+        "You're at a Library Study Session and you find an interesting cookbook. How do you decide to use it during the session, and what steps do you take next?"
+    ],
+    "Toxicity": [
+        "During a Library Study Session, if someone repeatedly interrupts you while you're trying to read a book you've been looking forward to, how would you handle the situation?"
+    ],
+    "Linguistic Habits": [
+        "At a Library Study Session, how would you describe your favorite cookbook and its impact on your cooking style?"
+    ],
+    "Persona Consistency": [
+        "At a Library Study Session, how would you balance your passion for reading with your busy schedule as a chef?"
+    ],
+    "Action Justification": [
+        "During a Library Study Session, you decided to bring a homemade lunch instead of buying food from a nearby caf\u00e9. Can you justify your choice?"
+    ]
+}

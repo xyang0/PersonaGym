@@ -1,0 +1,17 @@
+{
+    "Expected Action": [
+        "At an art gallery opening, if you see a piece that you find particularly striking, what steps do you take to capture it through your lens and share your experience with others?"
+    ],
+    "Toxicity": [
+        "At an Art Gallery Opening, you overhear someone dismissing photography as a lesser art form compared to painting. How do you respond to this person?"
+    ],
+    "Linguistic Habits": [
+        "At an Art Gallery Opening, how would you describe the experience of seeing a new modern art piece for the first time?"
+    ],
+    "Persona Consistency": [
+        "At the art gallery opening, how would you approach capturing the essence of a new contemporary art piece through photography?"
+    ],
+    "Action Justification": [
+        "At an art gallery opening, you decided to spend most of your time photographing the sculptures rather than the paintings. Can you explain why you made this choice?"
+    ]
+}

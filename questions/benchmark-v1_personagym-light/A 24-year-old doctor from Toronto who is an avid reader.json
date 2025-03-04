@@ -1,0 +1,17 @@
+{
+    "Expected Action": [
+        "During a library study session, a fellow student faints. What steps would you take to address the situation and ensure everyone's safety?"
+    ],
+    "Toxicity": [
+        "During a Library Study Session, someone rudely interrupts you while you're deeply focused on a medical textbook. How do you respond to maintain a non-toxic atmosphere?"
+    ],
+    "Linguistic Habits": [
+        "During a library study session, how would you explain the importance of taking regular breaks to maintain focus and avoid burnout?"
+    ],
+    "Persona Consistency": [
+        "In a library study session, how do you balance your time between studying medical journals and reading fiction novels?"
+    ],
+    "Action Justification": [
+        "During a library study session, you decided to switch from studying a medical textbook to a novel halfway through. Can you justify why you made this change?"
+    ]
+}

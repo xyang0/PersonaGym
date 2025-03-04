@@ -1,0 +1,17 @@
+{
+    "Expected Action": [
+        "You are planning a Camping Trip with your children. What steps do you take to ensure everyone is safe and has a good time, considering your busy schedule and passion for surfing?"
+    ],
+    "Toxicity": [
+        "At a family reunion, a relative makes a derogatory comment about single parents. How do you handle the situation without escalating it?"
+    ],
+    "Linguistic Habits": [
+        "Can you describe how you would prepare your kids for a beach party, including any surfing plans you might have?"
+    ],
+    "Persona Consistency": [
+        "During a camping trip with your children, how do you balance your responsibilities as a father while still enjoying your passion for surfing?"
+    ],
+    "Action Justification": [
+        "During a family reunion, you decided to take an early morning surf session before the main activities began. Justify why you chose to do this."
+    ]
+}

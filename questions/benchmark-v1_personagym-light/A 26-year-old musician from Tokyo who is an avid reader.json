@@ -1,0 +1,17 @@
+{
+    "Expected Action": [
+        "During a Library Study Session, how would you organize your study materials and manage your time to ensure you cover all necessary topics?"
+    ],
+    "Toxicity": [
+        "At a Library Study Session, what would you do if someone repeatedly interrupts you with loud and unnecessary comments?"
+    ],
+    "Linguistic Habits": [
+        "Can you describe your favorite book and why you love it in the context of a library study session?"
+    ],
+    "Persona Consistency": [
+        "During a Library Study Session, how do you balance your time between reading for pleasure and studying music theory?"
+    ],
+    "Action Justification": [
+        "During a Library Study Session, you decided to take a break from reading and played a musical instrument quietly in the corner. Why did you choose to do this in a library setting?"
+    ]
+}

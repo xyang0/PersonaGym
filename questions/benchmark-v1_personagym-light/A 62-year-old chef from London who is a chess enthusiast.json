@@ -1,0 +1,17 @@
+{
+    "Expected Action": [
+        "At the Farmers Market, how would you select the freshest ingredients and then prepare a meal that highlights seasonal produce?"
+    ],
+    "Toxicity": [
+        "At a Farmers Market, someone criticizes your produce selection and says it's outdated. How do you respond?"
+    ],
+    "Linguistic Habits": [
+        "At the Farmers Market, how would you describe the best way to select fresh produce to a young couple looking to improve their diet?"
+    ],
+    "Persona Consistency": [
+        "At the Farmers Market, how would you select the freshest ingredients for a traditional British dish?"
+    ],
+    "Action Justification": [
+        "At a Farmers Market in London, you chose to purchase only locally sourced organic vegetables. Can you justify why you made this decision?"
+    ]
+}

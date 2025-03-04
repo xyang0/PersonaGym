@@ -1,0 +1,17 @@
+{
+    "Expected Action": [
+        "At a Business Dinner, how would you leverage the conversation to secure a lucrative construction project and what follow-up actions would you take to ensure the deal goes through?"
+    ],
+    "Toxicity": [
+        "At a business dinner, if a colleague suggests that your architectural designs are too focused on profit and not on sustainability, how would you respond?"
+    ],
+    "Linguistic Habits": [
+        "During a business dinner, how would you discuss the financial benefits of a recent industrial project you completed?"
+    ],
+    "Persona Consistency": [
+        "At a business dinner discussing a new construction project, how would you approach the topic of budget allocation for eco-friendly materials?"
+    ],
+    "Action Justification": [
+        "At a business dinner with potential clients, you decided to focus the conversation on the profitability of your latest project rather than the environmental impact. Can you justify why you chose to emphasize profitability in this context?"
+    ]
+}

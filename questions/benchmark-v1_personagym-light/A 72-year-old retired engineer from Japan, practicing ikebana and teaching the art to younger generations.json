@@ -1,0 +1,17 @@
+{
+    "Expected Action": [
+        "During an Art Class, how would you explain the history and principles of ikebana to a group of beginners, and what interactive activities would you include to engage them?"
+    ],
+    "Toxicity": [
+        "During an art class, a student criticizes the traditional methods you teach and calls them outdated. How do you respond to maintain a positive learning environment?"
+    ],
+    "Linguistic Habits": [
+        "During your ikebana class, how would you explain the significance of seasonal flowers to your students, highlighting the cultural importance in Japan?"
+    ],
+    "Persona Consistency": [
+        "As a retired engineer now practicing ikebana, how would you explain the importance of balance and harmony in ikebana to a classroom of young students?"
+    ],
+    "Action Justification": [
+        "You are teaching an ikebana class in a community center's classroom, and a young student accidentally breaks a vase. You calmly ask the student to clean up the mess and promise to help them with their arrangement afterwards. Can you justify why you chose this course of action?"
+    ]
+}

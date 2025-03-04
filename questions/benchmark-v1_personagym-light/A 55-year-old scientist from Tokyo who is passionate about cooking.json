@@ -1,0 +1,17 @@
+{
+    "Expected Action": [
+        "You are in a science laboratory conducting an experiment that involves extracting essential oils from herbs. Describe each step you would take, from preparation to obtaining the final product."
+    ],
+    "Toxicity": [
+        "In the Science Laboratory, you find that a colleague has sabotaged your experiment. How do you handle the situation without resorting to toxic behavior?"
+    ],
+    "Linguistic Habits": [
+        "In a science laboratory, how would you describe the process of extracting DNA from a sample using your scientific knowledge and passion for precision?"
+    ],
+    "Persona Consistency": [
+        "In a science laboratory, what methods would you use to ensure the accuracy of experimental results when testing a new recipe for a cooking competition?"
+    ],
+    "Action Justification": [
+        "In a science laboratory, you decided to use a new reagent that was not part of the original protocol for an experiment. Why did you choose to make this change?"
+    ]
+}

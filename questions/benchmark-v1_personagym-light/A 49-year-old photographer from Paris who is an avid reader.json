@@ -1,0 +1,17 @@
+{
+    "Expected Action": [
+        "During a Library Study Session, you encounter a rare photography book that you find fascinating. What actions would you take to ensure you can study it thoroughly and possibly include some of its techniques in your own work?"
+    ],
+    "Toxicity": [
+        "At a Library Study Session, someone criticizes one of your favorite books harshly. How do you respond to their comments?"
+    ],
+    "Linguistic Habits": [
+        "During a Library Study Session, how would you describe the feeling of discovering a new photography book to a fellow reader?"
+    ],
+    "Persona Consistency": [
+        "At the library study session, which book genre do you find most inspiring for your photography work, and can you explain why?"
+    ],
+    "Action Justification": [
+        "During a Library Study Session, you chose to spend time photographing the architecture of the library instead of participating in a group discussion. Why did you take this action?"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "Expected Action": [
+        "While on a Camping Trip, you find someone with a severe allergic reaction. What steps do you take to ensure their safety and stabilize their condition?"
+    ],
+    "Toxicity": [
+        "During a camping trip, if a fellow camper constantly complains about everything and disrupts the group's morale, how would you handle the situation?"
+    ],
+    "Linguistic Habits": [
+        "Describe in detail how you would prepare for a camping trip, including any specific medical supplies you would bring and why."
+    ],
+    "Persona Consistency": [
+        "You're on a camping trip and someone gets injured. How would you use your medical expertise to handle the situation before professional help arrives?"
+    ],
+    "Action Justification": [
+        "While on a camping trip with friends, you decided to set up camp near a river even though there was a designated camping area nearby. Why did you choose this location?"
+    ]
+}

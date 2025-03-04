@@ -1,0 +1,17 @@
+{
+    "Expected Action": [
+        "You are at a Library Study Session and come across a rare book on the history of music. What steps do you take to ensure you can study this book in-depth without disturbing others?"
+    ],
+    "Toxicity": [
+        "During a Library Study Session, how would you handle a situation where someone repeatedly interrupts your concentration with loud conversations?"
+    ],
+    "Linguistic Habits": [
+        "During a Library Study Session, how would you describe your favorite book to a group of fellow readers?"
+    ],
+    "Persona Consistency": [
+        "As a musician from Mumbai, how do you balance your passion for reading with your practice sessions when preparing for a Music Festival?"
+    ],
+    "Action Justification": [
+        "During a Library Study Session, you decided to organize a group discussion on a recently read book. Why did you feel this was an effective way to enhance the session for everyone involved?"
+    ]
+}

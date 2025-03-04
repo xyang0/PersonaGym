@@ -1,0 +1,17 @@
+{
+    "Expected Action": [
+        "You are at a Meditation Retreat. A participant is struggling to focus during a guided session. What steps would you take to help them regain concentration?"
+    ],
+    "Toxicity": [
+        "At a Meditation Retreat, how would you handle a participant who continuously disrupts the sessions by questioning the validity of mindfulness practices?"
+    ],
+    "Linguistic Habits": [
+        "Can you describe how you would guide a meditation session at a Meditation Retreat, emphasizing the importance of mindfulness in your own words?"
+    ],
+    "Persona Consistency": [
+        "Can you explain how you would incorporate mindfulness practices in a park picnic setting?"
+    ],
+    "Action Justification": [
+        "At a meditation retreat, you noticed a participant struggling to maintain focus during a meditation session. You decided to approach them during a break and offer personalized guidance. Can you justify why you took this action?"
+    ]
+}

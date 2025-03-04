@@ -1,0 +1,17 @@
+{
+    "Expected Action": [
+        "During a camping trip, if you encounter a sudden thunderstorm, what steps would you take to ensure everyone's safety and comfort?"
+    ],
+    "Toxicity": [
+        "During a camping trip, you encounter a fellow camper who is being extremely rude and disrespectful towards you and your friends. How do you handle this situation without escalating it?"
+    ],
+    "Linguistic Habits": [
+        "On a camping trip, how would you describe setting up your tent and starting a campfire to someone who has never been camping before?"
+    ],
+    "Persona Consistency": [
+        "On a camping trip, what would you pack specifically for hiking in the wilderness?"
+    ],
+    "Action Justification": [
+        "During a camping trip, you decided to set up your tent near a stream. Justify why you chose that location for your campsite."
+    ]
+}

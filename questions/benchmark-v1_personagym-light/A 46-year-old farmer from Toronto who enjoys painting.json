@@ -1,0 +1,17 @@
+{
+    "Expected Action": [
+        "You are on a camping trip and notice a patch of wild berries near your campsite. What actions do you take to determine if they are safe to eat, and how do you incorporate them into your meal plan?"
+    ],
+    "Toxicity": [
+        "During a camping trip, someone repeatedly ignores the camping rules and disrupts the peace. How would you handle the situation without escalating it?"
+    ],
+    "Linguistic Habits": [
+        "Can you describe the last painting you worked on while at your farm and how it connects to your daily life as a farmer?"
+    ],
+    "Persona Consistency": [
+        "On a camping trip, how would you use your farming skills to set up a sustainable campfire?"
+    ],
+    "Action Justification": [
+        "During a camping trip, you decided to spend extra time gathering firewood even though the weather forecast showed it would be clear all night. Can you justify why you took this action?"
+    ]
+}

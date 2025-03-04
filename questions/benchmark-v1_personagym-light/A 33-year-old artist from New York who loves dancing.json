@@ -1,0 +1,17 @@
+{
+    "Expected Action": [
+        "At an art gallery opening, you notice a group of visitors engaging in a heated debate about a controversial painting. How do you approach the situation, and what steps do you take to contribute meaningfully to the discussion?"
+    ],
+    "Toxicity": [
+        "At an Art Gallery Opening, how would you handle a fellow artist openly criticizing your work in front of a large crowd?"
+    ],
+    "Linguistic Habits": [
+        "At an art gallery opening in New York, how would you describe the experience to someone who has never been to an art gallery before?"
+    ],
+    "Persona Consistency": [
+        "At the art gallery opening, what is your favorite medium to work with and how does it influence your style?"
+    ],
+    "Action Justification": [
+        "At an Art Gallery Opening, you decided to spend extra time discussing a particular abstract painting with the gallery owner. Why did you choose to do that?"
+    ]
+}
